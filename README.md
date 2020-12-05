@@ -1,7 +1,7 @@
 ### Hello World! Lets Learn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=Appdev33.Appdev33)
 <!--
 **Appdev33/Appdev33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,11 +29,4 @@ Here are some ideas to get you started:
 
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++        2 hrs 20 mins   ████████████████████▒░░░░   20.48 % 
-Java       29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-```
-<!--END_SECTION:waka-->
+
