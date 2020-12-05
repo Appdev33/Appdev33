@@ -1,5 +1,7 @@
-### Hello World! Lets Learn 👋
+### Hello World! Lets Learn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 <!--
 **Appdev33/Appdev33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +23,17 @@ Here are some ideas to get you started:
 
 
 
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Appdev33&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Appdev33&langs_count=6&theme=tokyonight)]()
 
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++        2 hrs 20 mins   ████████████████████▒░░░░   20.48 % 
+Java       29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+```
+<!--END_SECTION:waka-->
