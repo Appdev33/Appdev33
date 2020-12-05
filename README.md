@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Appdev33&count_private=true&theme=tokyonight&showicons=true)]()-->
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Appdev33&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Appdev33&langs_count=6&theme=tokyonight)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appdev33&langs_count=8)](https://github.com/Appdev33/github-readme-stats)
