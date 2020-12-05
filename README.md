@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Appdev33&langs_count=6&theme=tokyonight)]()
 
 
-📊 **This Week I Spent My Time On:**
+
 
