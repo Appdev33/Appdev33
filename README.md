@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Appdev33/github-profile-trophy)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Appdev33&count_private=true&theme=tokyonight&showicons=true)]()<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Appdev33/github-profile-trophy)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Appdev33&langs_count=100&theme=tokyonight)]()
 
 
