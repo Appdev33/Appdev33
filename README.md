@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 
 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Appdev33&theme=onedark)] <br>
 
