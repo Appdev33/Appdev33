@@ -22,8 +22,8 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ## FrameWorks
-![Flask](https://img.shields.io/badge/-Flask-%231007ACC?style=flat-square&logo=visual-studio-code)
-![Django](https://img.shields.io/badge/-Django-lightgrey)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
 
 
