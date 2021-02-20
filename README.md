@@ -23,7 +23,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Appdev33.Appdev33)
 <!---
 
