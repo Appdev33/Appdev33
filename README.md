@@ -25,7 +25,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Appdev33.Appdev33)
 <!---
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
