@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-
  🔭 I’m currently working on Anything i can learn
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Appdev33&langs_count=100&theme=tokyonight)]()
